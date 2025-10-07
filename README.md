@@ -16,13 +16,15 @@ Created 3 Users for HR Department in the HR Directory, each of them with unique 
 - Paul Coeur – ( logon: pcoeur@PRFDCWpg.local, password: PCoe02PRF!)
 - Vladimír Valenta – (logon: vvalenta@PRFDCWpg.local, password: VVale03PRF!)
 <img width="468" height="365" alt="image" src="https://github.com/user-attachments/assets/5b628f39-f5ce-4ff3-8714-278b934e33b8" />
+<i> Ref 1: HR Directory </i>
 <br/> <br/>
 Created 2 Users for IT Department in the IT Directory, each of them with unique logon credentials.
 
 - Graham Greene (logon: ggreene@PRFDCWpg.local, password: GGre04PRF!)
 - Sandika Evergreen (logon: severgreen@PRFDCWpg.local, password: SEver05PRF!)
 <img width="468" height="365" alt="image" src="https://github.com/user-attachments/assets/d247a514-2356-427f-a177-9076a3c56426" />
+<i> Ref 2: IT Directory </i>
 <br/> <br/>
-Created a "System Administrator” security group where Graham Greene is a member and also a user in IT department.
-
+Created a "System Administrator” security group where Graham Greene is a member and also a user in IT department. <br/>
 <img width="468" height="338" alt="image" src="https://github.com/user-attachments/assets/6111b392-6e96-4597-8c2a-4e6f5f5fd008" />
+<i> Ref 3: Graham Greene; user properties </i>
